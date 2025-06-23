@@ -11,7 +11,7 @@
 ## 💫 About Me
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="330" height="190" alt="Coding GIF">
 
-- 🚀 **Full Stack Developer | Data Scientist | Artificial Intelligence & Machine Learning Engineer**
+- 🚀 **Full Stack Developer | Data Science | Artificial Intelligence & Machine Learning**
 - 🎓 Studying **Computer Science with specialization in Artificial Intelligence**
 - 💬 Exploring **Diffusion Models**, **Large Language Models (LLMs)**, and **Reinforcement Learning** to advance AI capabilities.
 - 💻 Simultaneously strengthening skills in **Deep Learning**, **Neural Networks**, **Computer Vision**, and developing **scalable Full Stack systems powered by Cloud Infrastructure**.
