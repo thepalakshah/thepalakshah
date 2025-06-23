@@ -15,7 +15,7 @@
 - 🎓 Studying **Computer Science with specialization in Artificial Intelligence**
 - 💬 Exploring **Diffusion Models**, **Large Language Models (LLMs)**, and **Reinforcement Learning** to advance AI capabilities.
 - 💻 Simultaneously strengthening skills in **Deep Learning**, **Neural Networks**, **Computer Vision**, and developing **scalable Full Stack systems powered by Cloud Infrastructure**.
-- 🌱 Passionate about **PyTorch**, **Computer Vision**, **CNN Architectures**, **AI Research**, **ML Algorithms**, **Data Preprocessing**, **Feature Engineering**, **Model Deployment**, **scalable REST APIs**,<br> and building intelligent, efficient software solutions that bridge **AI and Full Stack systems**.
+- 🌱 Passionate about **PyTorch**, **Computer Vision**, **CNN Architectures**, **AI Research**, **ML Algorithms**, **Data Preprocessing**, **Feature Engineering**, **Model Deployment**,<br> **scalable REST APIs**,<br> and building intelligent, efficient software solutions that bridge **AI and Full Stack systems**.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/palakshah0719) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu) 
