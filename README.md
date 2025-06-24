@@ -18,7 +18,9 @@
 - 🌱 Passionate about **PyTorch**, **Computer Vision**, **CNN Architectures**, **AI Research**, **ML Algorithms**, **Data Preprocessing**, **Feature Engineering**, **Model Deployment**,<br>**scalable REST APIs**, and building intelligent, efficient software solutions that bridge **AI and<br>Full Stack systems**.
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/palakshah0719) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palakshah0719)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu)
+
 
 <h2>🛠️ Tech Stack</h2>
 
