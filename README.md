@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palakshah0719)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?logo=website&logoColor=white)](https://palakshahportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234ea94b.svg?logo=website&logoColor=white)](https://palakshahportfolio.netlify.app/)
 
 
 
