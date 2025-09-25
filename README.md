@@ -20,6 +20,8 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palakshah0719)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?logo=website&logoColor=white)](https://palakshahportfolio.netlify.app/)
+
 
 
 <h2>🛠️ Tech Stack</h2>
@@ -96,8 +98,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PalakShah19&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PalakShah19&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PalakShah19&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=thepalakshah&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PalakShah19&theme=aura&no-frame=false&no-bg=false&margin-w=4)
