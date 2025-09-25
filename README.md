@@ -22,7 +22,12 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps78766n@pace.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234ea94b.svg?logo=website&logoColor=white)](https://palakshahportfolio.netlify.app/)
 
-
+## 🌐 Connect With Me
+<p>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-4ea94b?style=for-the-badge&logo=website&logoColor=white">
+</p>
 
 <h2>🛠️ Tech Stack</h2>
 
