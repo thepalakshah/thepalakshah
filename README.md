@@ -128,13 +128,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&layout=compact&hide_border=false&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&layout=compact&hide_border=false&langs_count=8&cache_seconds=1800" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=true&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=onestar&no-frame=true&margin-w=4&column=6" />
 </p>
 
 ## 📈 Activity Graph
