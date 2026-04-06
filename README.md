@@ -127,16 +127,6 @@
   <img src="https://streak-stats.demolab.com?user=thepalakshah&theme=aura&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&layout=compact&hide_border=false&langs_count=8&cache_seconds=1800" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=onestar&no-frame=true&margin-w=4&column=6" />
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
