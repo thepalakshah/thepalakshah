@@ -124,15 +124,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepalakshah&show_icons=true&theme=aura&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=thepalakshah&theme=aura&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=thepalakshah&cc=000&tc=aura&ic=fff&bc=000" />
 </p>
 
 <p align="center">
@@ -142,7 +134,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=darkhub&no-frame=true&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=true&margin-w=4&column=6" />
 </p>
 
 ## 📈 Activity Graph
