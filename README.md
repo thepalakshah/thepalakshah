@@ -124,12 +124,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thepalakshah&theme=aura&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thepalakshah&theme=aura&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&hide_border=false&layout=compact" />
 </p>
 
 ## 📈 Activity Graph
@@ -141,7 +144,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ## 🐍 Contribution Snake
