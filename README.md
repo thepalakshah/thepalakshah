@@ -121,10 +121,39 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thepalakshah&theme=aura&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepalakshah&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepalakshah&theme=github-dark&area=true&line=7F77DD&point=7F77DD" />
+</p>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thepalakshah&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thepalakshah/thepalakshah/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thepalakshah/thepalakshah/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thepalakshah/thepalakshah/output/snake.svg" />
+  </picture>
+</p>
+
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
